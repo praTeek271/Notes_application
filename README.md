@@ -1,5 +1,3 @@
-Sure! Below is a sample README file for the NotepadApp:
-
 # NotepadApp
 
 NotepadApp is a simple text editor built using Python and the Tkinter library. It allows users to create, edit, save, and open text files. The app features a sidebar for easy access to common functions and supports both light and dark themes.
@@ -9,11 +7,11 @@ NotepadApp is a simple text editor built using Python and the Tkinter library. I
 
 ## Features
 
-- Create a new text file
-- Open an existing text file
-- Save the current text to a file
-- Switch between light and dark themes for better reading experience
-- Blinking cursor to indicate text input location
+- [x] Create a new text file
+- [x] Open an existing text file
+- [x] Save the current text to a file
+- [x] Switch between light and dark themes for better reading experience
+- [x] Blinking cursor to indicate text input location
 
 ## Installation
 
@@ -66,7 +64,3 @@ Contributions are welcome! If you find any issues or have ideas for improvements
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the README file to include more detailed instructions, screenshots, or any other relevant information about your application.
