@@ -15,4 +15,4 @@ This Repo consists of the following files :
 <br>
 
 
-- supports mac
+- uses os module
