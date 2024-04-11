@@ -15,4 +15,4 @@ This Repo consists of the following files :
 <br>
 
 
-- this is a test repo
+- uses chrome
