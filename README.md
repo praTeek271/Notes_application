@@ -1,4 +1,4 @@
-# Notes_application
+# notes_application
 This Repo consists of the following files :
 - .git
 - noteS.py
@@ -17,4 +17,4 @@ This Repo consists of the following files :
 <br>
 
 
-- uses threading module
+- supports linux
