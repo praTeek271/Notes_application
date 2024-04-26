@@ -17,4 +17,4 @@ This Repo consists of the following files :
 <br>
 
 
-- supports linux
+- can be used for any file
