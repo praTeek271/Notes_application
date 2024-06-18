@@ -17,4 +17,4 @@ This Repo consists of the following files :
 <br>
 
 
-- uses python
+- uses time module
